@@ -1,1 +1,1 @@
-web: java -jar target/Application.java
+web: java -jar target/bootapp.jar
