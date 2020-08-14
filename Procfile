@@ -1,1 +1,1 @@
-web: java -jar target/bootapp.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/bootapp.jar
